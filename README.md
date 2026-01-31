@@ -1,0 +1,1 @@
+This repository contains files utilzed for the evaluation of primers for the project,"The use of environmental DNA metabarcoding in the evaluation of vertebrate communities across urban stream restoration gradients." 
